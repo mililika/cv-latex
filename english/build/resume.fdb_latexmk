@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1738952847.74863 "/Users/mykhailokazymyr/Documents/documents/resume/english/resume.tex" "build/resume.pdf" "resume" 1738952848.23649 0
-  "/Users/mykhailokazymyr/Documents/documents/resume/english/resume.tex" 1738952846.94252 12789 b29f2530005fbf52bcdefd8fabee1c45 ""
+["pdflatex"] 1738964080.97327 "/Users/mykhailokazymyr/Documents/documents/resume/english/resume.tex" "build/resume.pdf" "resume" 1738964081.62778 0
+  "/Users/mykhailokazymyr/Documents/documents/resume/english/resume.tex" 1738964080.73728 12753 a3da8f56d43bd2219ed4cf747203e1dc ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -120,8 +120,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734640869.86054 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734640810 8221435 4d854c8a51535b84244287a6f2dedb7c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "build/resume.aux" 1738952848.18924 1942 2e1e5f927f534c7a1ed3dd0c2fd0c248 "pdflatex"
-  "resume.tex" 1738952846.94252 12789 b29f2530005fbf52bcdefd8fabee1c45 ""
+  "build/resume.aux" 1738964081.57765 1942 2e1e5f927f534c7a1ed3dd0c2fd0c248 "pdflatex"
+  "resume.tex" 1738964080.73728 12753 a3da8f56d43bd2219ed4cf747203e1dc ""
   (generated)
   "build/resume.aux"
   "build/resume.log"
